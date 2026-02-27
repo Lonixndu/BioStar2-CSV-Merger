@@ -62,8 +62,8 @@ Example sections you can add:
 
 Earlier version of this tool was a command-line Python script.
 
-Usage:
-```python merger.py --inputdir <input_folder> --output <output_file>```
+Usage:<br>
+`python merge_csvs.py --input-dir "path/to/csvs" --output "merged.csv" [--pattern "*.csv"] [--encoding "utf-8"] [--newline]`
 
 This version required manual ZIP extraction.
 
