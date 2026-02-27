@@ -157,7 +157,7 @@ namespace BioStarCSVMerger
         {
             Process.Start(new ProcessStartInfo
             {
-                FileName = "https://github.com/YOUR_USERNAME/YOUR_REPO",
+                FileName = "https://github.com/Lonixndu/BioStar2-CSV-Merger/",
                 UseShellExecute = true
             });
         }
