@@ -33,14 +33,7 @@ This tool:
 
 ## 📷 Screenshots
 
-> (Add screenshots here)
-
-Example sections you can add:
-
-- Main application window
-- ZIP selection
-- Progress bar in action
-- Completed merge output
+![Alt text](./Screenshots/Application.png)
 
 ---
 
