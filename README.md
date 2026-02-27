@@ -63,7 +63,7 @@ Example sections you can add:
 Earlier version of this tool was a command-line Python script.
 
 Usage:<br>
-`python merge_csvs.py --input-dir "path/to/csvs" --output "merged.csv" [--pattern "*.csv"] [--encoding "utf-8"] [--newline]`
+`python merge_csvs.py --input-dir "path/to/csvs" --output "merged.csv"`
 
 This version required manual ZIP extraction.
 
