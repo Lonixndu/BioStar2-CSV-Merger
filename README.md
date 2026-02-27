@@ -33,14 +33,7 @@ This tool:
 
 ## 📷 Screenshots
 
-> (Add screenshots here)
-
-Example sections you can add:
-
-- Main application window
-- ZIP selection
-- Progress bar in action
-- Completed merge output
+![Alt text](./Screenshots/Application.png)
 
 ---
 
@@ -62,8 +55,8 @@ Example sections you can add:
 
 Earlier version of this tool was a command-line Python script.
 
-Usage:
-```python merger.py --inputdir <input_folder> --output <output_file>```
+Usage:<br>
+`python merge_csvs.py --input-dir "path/to/csvs" --output "merged.csv"`
 
 This version required manual ZIP extraction.
 
