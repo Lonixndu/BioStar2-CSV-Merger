@@ -66,7 +66,7 @@ This version required manual ZIP extraction.
 
 ### Desktop Version (v1.0)
 - C#
-- .NET 8
+- .NET 10
 - Windows Forms
 - System.IO Streaming API
 - Self-contained single-file publish
